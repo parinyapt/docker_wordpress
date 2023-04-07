@@ -1,5 +1,5 @@
 # Run Wordpress with Docker Compose
-
+Wordpress + Mariadb + Phpmyadmin
 ## Getting Started
 #### Step 1: Add Environment Variable on .env file
 ```env
